@@ -48,18 +48,16 @@
 
 **Тест 1**
 
-![Тест 1](https://github.com/Loshka666/-.-1/blob/main/задача%201%20тест%201.png?raw=true)
+![Тест 1](https://github.com/Loshka666/-.-1/blob/main/задача%202%20тест1.png?raw=true)
 
 **Тест 2**
 
-![Тест 2](https://github.com/Loshka666/-.-1/blob/main/задача%201%20тест%202.png?raw=true)
+![Тест 2]()
 
----
+**Тест 3**
 
-# Результаты тестирования – треугольник не существует!
+![Тест 3]()
 
-<center>Тест 1</center>
 
-![Как не надо 1](https://github.com/Loshka666/-.-1/blob/main/задача%201%20тест%203.png?raw=true)
 
 
