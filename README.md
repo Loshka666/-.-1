@@ -56,7 +56,7 @@
 
 **Тест 3**
 
-![Тест 3]()
+![Тест 3](https://github.com/Loshka666/-.-1/blob/main/задача%202%20тест%203.png?raw=true)
 
 
 
