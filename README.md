@@ -82,7 +82,7 @@
 
 **Тест 3**
 
-![Тест 3]()
+![Тест 3](https://github.com/Loshka666/-.-1/blob/main/задача%203%20тест3.png?raw=true)
 
 
 
