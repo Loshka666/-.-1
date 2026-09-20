@@ -18,11 +18,11 @@
 
 **Тест 1**
 
-![Тест 1]('C:\Users\PC\Downloads\задача 1 тест 1.png')
+![Тест 1](https://github.com/Loshka666/-.-1/blob/main/задача%201%20тест%201.png?raw=true)
 
 **Тест 2**
 
-![Тест 2]("C:\Users\PC\Downloads\задача 1 тест 2.png")
+![Тест 2]()
 
 ---
 
@@ -30,5 +30,5 @@
 
 <center>Тест 1</center>
 
-![Как не надо 1]("C:\Users\PC\Downloads\задача 1 тест 3.png")
+![Как не надо 1]()
 
